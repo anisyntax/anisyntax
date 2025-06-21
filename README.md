@@ -19,34 +19,20 @@
 <details>
 <summary>What I Do 🚀</summary>
 
-  <details>
-   <summary>Content Creation 🎥</summary>
-    
-  - Making short-form content on programming on [Instagram](https://www.instagram.com/code_station_/).
-  - Join me on LinkedIn to see my daily posts.
-  </details>  
-  
-  <details>
+ 
   <summary>Design 🎨</summary>
     
-  - Crafting visual designs and user experiences in [Figma](https://www.figma.com/aachal28).
-  - Check out my design portfolio on [Dribbble](https://dribbble.com/aachal28).
+  - Crafting visual designs and user experiences in [Figma].
+
   </details>
   
   <details>
   <summary>Development 💻</summary>
     
   - Building and deploying web applications and websites [Projects](#Projects)
-   - [CodingGeeks](#codinggeeks)
-  - [PDFTalk](#pdf-talk)
+ 
 </details>
 
-<details>
-<summary>Open Source 🌍</summary>
-  
-- Participated in Hacktoberfest '23, contributed to and mentored in GSSoC.
-- You can also scroll down and get more information on [my GitHub profile]((https://github/aachal28). 
-</details>
 
 </details>
 
@@ -60,29 +46,13 @@
 
 </details>
 
-<details>
-<summary> Projects</summary>
-
-| **Project Name** | **Description** | **URL** | **Tech Stack** |
-|------------------|-----------------|---------|----------------|
-| CodingGeeks      | EdTech platform | [Link](https://github.com/aachal28/EdTech_MERN-Stack) | React, MongoDB, NodeJS, ExpressJS |
-| PDFTalk          | Like ChatGPT, you can give prompts and get answers | [Link](https://github.com/aachal28/pdftalk) | ReactJS, Python, LLM, Node.js, Express |
-
-</details>
-<details>
-<summary>Recent Updates ✨</summary>
-
-- [Free APIs for Your Project](https://www.instagram.com/p/C9w8eOTALeb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) : Check out my newest post!
-</details>
 
 ## What if you like my work? 🤩
 
-- Follow Me On [Instagram]() For More Amazing content 
-- Subscribe to my [YouTube Channel](https://youtube.com/@the.codestation?si=RxRop7UK24jHUKfl?sub_confirmation=1).
 - You can Star ⭐ the repositories you like.
-- You can react ❤️ to my [LinkedIn](https://www.linkedin.com/in/aachalpardeshi/) posts.
+- You can react ❤️ to my [LinkedIn](https://www.linkedin.com/in/anis-khaifallah-319701265/) posts.
 
 ## GitHub Stats 📊
 
-| ![Aachal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aachal28&theme=white&show_icons=true)  | ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aachal28&background=ffffff&hide_border=true) |
+| ![Anis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anisyntax&theme=white&show_icons=true)  | ![Aachal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anisyntax&background=ffffff&hide_border=true) |
 | ------------- | ------------- |
